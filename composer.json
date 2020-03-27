@@ -10,7 +10,7 @@
     "license": "MIT",
     "require": {
         "neos/flow": "*",
-        "google/apiclient": "^2.0"
+        "google/apiclient": "~1.1"
     },
     "autoload": {
         "psr-4": {
